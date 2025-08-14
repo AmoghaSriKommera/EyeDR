@@ -86,5 +86,5 @@ Contains results from multiple experiments for comparative analysis.
 ---
 
 ## 🔖 License
-Specify your license here (MIT, GPL, etc.).
+Made by Amogha Sri Kommera.
 
