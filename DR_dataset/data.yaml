@@ -1,0 +1,9 @@
+names:
+- MA
+- HE
+- EX
+- SE
+- OD
+nc: 5
+train: ../images/train
+val: ../images/val
